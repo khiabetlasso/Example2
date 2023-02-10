@@ -15,3 +15,9 @@ Encabezados
 #### Encabezado 4
 ##### Encabezado 5
 ###### Encabezado 6
+
+Tablas 
+| Título  | Título   |
+| ------- | -------- |
+| Texto   | Texto    |
+| Texto   | Texto    |
