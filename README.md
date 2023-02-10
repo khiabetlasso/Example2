@@ -1,23 +1,15 @@
-# Example2
+# Resultados electorales 
 
+## Imágenes de los candidatos
+### Aquiles Alvarez
+![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
+### Cinthia Viteri
+*![Cinthia Viteri](/ruta/a/la/imagen.jpg)
 
-HOLA MUNDO
-
-EJEMPLO DE PÁGINA WEB
-
-#imagen
-![Texto alternatico](/ruta/a/la/imagen.jpg)
-
-Encabezados
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-#### Encabezado 4
-##### Encabezado 5
-###### Encabezado 6
+## Resultados 
 
 Tablas 
-| Título  | Título   |
+| Candidato | Votos   |
 | ------- | -------- |
-| Texto   | Texto    |
-| Texto   | Texto    |
+| Aquiles Alvarez  | 551, 996   |
+| Cinthia Viteri   | 420, 208   |
